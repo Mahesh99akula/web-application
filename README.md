@@ -3,7 +3,8 @@
 Creating a basic web application that allows users to input data, validate it, store it in a
 database, retrieve it, and display it in a table format.
 ## Requirements:
-### 1.Programming Language:choosing javascript, html and php programming 
+### 1.Programming Language:
+choosing javascript, html and php programming 
 ### 2. User Input Form:
 a.Creating a web form that includes fields for the following data:
 * Name (text input)
